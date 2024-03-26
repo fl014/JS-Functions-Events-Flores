@@ -4,8 +4,9 @@ function showInfo() {
       "Ivan",
       "Cookid",
       "Vlad",
-      "<h2>Hello world!"
+      "<h2>Hello world!</h2>"
    ];
+   
    // Generate a random number and pick that item from the array
    var randomizer = Math.floor(Math.random() * infoList.length);
    
